@@ -1,7 +1,7 @@
 {
-  "name": "learn-bootstrap-4",
-  "description": "Learn Bootstrap 4 - brainscloud.ru",
-  "author": "Dmitry Valak - brainscloud.ru",
+  "name": "",
+  "description": "",
+  "author": "",
   "devDependencies": {
     "bootstrap": "v4",
     "jquery": "^3.3.1",
