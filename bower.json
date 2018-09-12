@@ -1,0 +1,10 @@
+{
+  "name": "learn-bootstrap-4",
+  "description": "Learn Bootstrap 4 - brainscloud.ru",
+  "author": "Dmitry Valak - brainscloud.ru",
+  "devDependencies": {
+    "bootstrap": "v4",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  }
+}
